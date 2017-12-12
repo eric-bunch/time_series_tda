@@ -1,0 +1,1 @@
+This project uses Dionysus2 (http://www.mrzv.org/software/dionysus2/) to analyze time series data using techniques from topological data analysis, namely persistent homology and persistent cohomology.
